@@ -3,7 +3,7 @@ import winsound
 
 def main():
     #frontend
-    win = GraphWin("Akilibobo",1000,650)
+    win = GraphWin("My Piano",1000,650)
     win.setCoords(0,0,20,20)
     win.setBackground("Black")
     
